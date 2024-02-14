@@ -22,11 +22,11 @@ I have a knack for languages like HTML, CSS, JavaScript, Node.js, MongoDB, SQL, 
 ## 🚧 Projects
 1. **Electricity Billing System**
    - Java, MySQL
-   - [Project Link](#)
+   - [Project Link](https://github.com/partiksingh1/Electricity-Billing-System)
 
 2. **NATOURS - Tour Management System**
    - MongoDB, ExpressJS, NodeJS
-   - [Project Link](#)
+   - [Project Link](https://github.com/partiksingh1/Natours)
    
 3. **Portfolio Website**
    - HTML, CSS, JavaScript
