@@ -6,7 +6,7 @@ I'm Partik Singh Tanwer, a passionate Computer Science and Engineering student a
 I have a knack for languages like HTML, CSS, JavaScript, Node.js, MongoDB, SQL, and I'm diving deep into the world of React.
 
 ## 📚 Academic Journey
-- **Program:** Computer Science and Engineering
+- **Program:**  B.Tech in Computer Science and Engineering
 - **Institute:** Jain University, Bangalore (2020-24)
 - **Secondary Education:** Springdales School, Jaipur (2020)
 
@@ -16,7 +16,7 @@ I have a knack for languages like HTML, CSS, JavaScript, Node.js, MongoDB, SQL, 
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, SQL
-- **Web Technologies:** HTML, CSS, Node.js, ExpressJS, MongoDB
+- **Web Technologies:** HTML, CSS, Node.js, ExpressJS, MongoDB, React.js
 - **Tools:** Git, GitHub, MySQL, VSCode
 
 ## 🚧 Projects
