@@ -16,8 +16,8 @@ I have a knack for languages like HTML, CSS, JavaScript, Node.js, MongoDB, SQL, 
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, SQL
-- **Web Technologies:** HTML, CSS, Node.js, ExpressJS, MongoDB, React.js
-- **Tools:** Git, GitHub, MySQL, VSCode
+- **Web Technologies:** HTML, CSS, Node.js, ExpressJS, MongoDB, React.js, Next.js, React Native
+- **Tools:** Git, GitHub, MySQL, VSCode, Bitbucket
 
 ## 🚧 Projects
 1. **Electricity Billing System**
