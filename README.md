@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Partik Singh Tanwer, a passionate Computer Science and Engineering student at Jain University, Bangalore (2020-24). 🚀
+I'm Partik. A Software Developer.
 
 ## 🌱 Currently Learning
 I'm diving deep into the world of Programming.
