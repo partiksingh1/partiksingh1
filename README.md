@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Partik. A Software Developer.
+I’m Partik, a Software Developer with a focus on delivering scalable and user-friendly applications.
 
 ## 🌱 Currently Learning
 I'm diving deep into the world of Programming.
@@ -10,12 +10,12 @@ I'm diving deep into the world of Programming.
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, TypeScript, Go, SQL
-- **Web Technologies:** HTML, CSS, Node.js, Express.js, MongoDB, React.js, Next.js, React
-- **Tools:** Git, GitHub, Bitbucket, MySQL, VSCode
+- **Web Technologies:** HTML, CSS, Node.js, Express.js, MongoDB, React.js, Next.js, React Native
+- **Tools:** Git, GitHub, Bitbucket, MySQL, VSCode, Expo
 
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/partik-singh-473805206)
-- [Portfolio](https://partiksingh.online/)
+- [Portfolio](https://partik.online/)
 
 Let's code and create something amazing together! 🚀✨
