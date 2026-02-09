@@ -15,7 +15,7 @@ I'm diving deep into the world of Programming.
 
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/partik-singh-473805206)
+- [LinkedIn](https://www.linkedin.com/in/partiksingh)
 - [Portfolio](https://partik.online/)
 
 Let's code and create something amazing together! 🚀✨
