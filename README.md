@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I’m Partik, a Software Developer with a focus on delivering scalable and user-friendly applications.
+💻 Full Stack Developer focused on Web & UI/UX  
+🎯 Passionate about building clean, responsive and user-friendly interfaces  
 
 ## 🌱 Currently Learning
 I'm diving deep into the world of Programming.
@@ -9,9 +10,9 @@ I'm diving deep into the world of Programming.
 - Currently honing my skills in Software Development.
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, TypeScript, Go, SQL
-- **Web Technologies:** HTML, CSS, Node.js, Express.js, MongoDB, React.js, Next.js, React Native
-- **Tools:** Git, GitHub, Bitbucket, MySQL, VSCode, Expo
+- **Languages:** Java, JavaScript, TypeScript, SQL
+- **Web Technologies:** HTML, CSS, Node.js, React.js, Next.js, React Native
+- **Tools:** Git, GitHub, MySQL, VSCode, Expo
 
 
 ## 🌐 Connect with Me
